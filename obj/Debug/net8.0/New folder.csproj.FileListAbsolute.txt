@@ -1,0 +1,30 @@
+C:\Users\shamshuddin\Desktop\New folder\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\shamshuddin\Desktop\New folder\bin\Debug\net8.0\appsettings.json
+C:\Users\shamshuddin\Desktop\New folder\bin\Debug\net8.0\New folder.staticwebassets.runtime.json
+C:\Users\shamshuddin\Desktop\New folder\bin\Debug\net8.0\New folder.exe
+C:\Users\shamshuddin\Desktop\New folder\bin\Debug\net8.0\New folder.deps.json
+C:\Users\shamshuddin\Desktop\New folder\bin\Debug\net8.0\New folder.runtimeconfig.json
+C:\Users\shamshuddin\Desktop\New folder\bin\Debug\net8.0\New folder.dll
+C:\Users\shamshuddin\Desktop\New folder\bin\Debug\net8.0\New folder.pdb
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\New folder.AssemblyInfoInputs.cache
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\New folder.AssemblyInfo.cs
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\New folder.csproj.CoreCompileInputs.cache
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\New folder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\New folder.RazorAssemblyInfo.cache
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\New folder.RazorAssemblyInfo.cs
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\staticwebassets\msbuild.New folder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\staticwebassets\msbuild.build.New folder.props
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.New folder.props
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.New folder.props
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\scopedcss\bundle\New folder.styles.css
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\scopedcss\projectbundle\New folder.bundle.scp.css
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\New folder.dll
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\refint\New folder.dll
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\New folder.pdb
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\New folder.genruntimeconfig.cache
+C:\Users\shamshuddin\Desktop\New folder\obj\Debug\net8.0\ref\New folder.dll
